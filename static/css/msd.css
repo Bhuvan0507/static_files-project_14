@@ -1,0 +1,19 @@
+*{
+    margin-bottom:150px ;
+}
+h1
+{
+    color: blueviolet;
+
+}
+body
+{
+    background: linear-gradient(45deg,orange,white,green);
+}
+
+img
+{
+    height: 400px;
+    width: 6
+    00px;
+}
